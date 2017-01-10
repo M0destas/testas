@@ -1,0 +1,785 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Kaunas 2016</name>
+		<Placemark>
+			<name>„15min.lt" 15 000 žingsnių zona/ „15min.lt" 15 000 steps zone</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/6F7OSTmbKBlItg-KR8JDZMiJzYwnZdpTDmVKej02C6oBLxsJmk6WTuC0n5Wp7E5lDHvelhnOrNmxSbdLJyD4_71eahxMpC6NcTHOxEJeqi0zgcu6ju6Rg-lVzqNT-MY_nQ" height="200" width="auto" /><br><br>Aprašas: Aprašas: Coords: 54.875603, 24.019909<br>Elevation: 85 m<br>Time: 2016-09-07 05:32:33 popiet<br>comment: Sveikiname! Jūs sėkmingai įveikėte #Walk15 trasą, 15 000 žingsnių, apie 11,5 km! Vardan geros sveikatos ir puikios savijautos raginame kasdien pasivaikščioti bent 15 minučių. Pasidalinkite savo rezultatu socialiniuose tinkluose, žymėdami #Walk15/ Congratulations! You have just overcomed #Walk15 track, about 11.5 km! Don't stop, go for a walk at least 15 minutes per day. Share your result in social networks and tag #Walk15<br>visited: 1<br>activity:<br>comment: Sveikiname! Jūs sėkmingai įveikėte #Walk15 trasą, 15 000 žingsnių, apie 11,5 km! Vardan geros sveikatos ir puikios savijautos raginame kasdien pasivaikščioti bent 15 minučių. Pasidalinkite savo rezultatu socialiniuose tinkluose, žymėdami #Walk15/ Congratulations! You have just overcomed #Walk15 track, about 11.5 km! Don't stop, go for a walk at least 15 minutes per day. Share your result in social networks and tag #Walk15<br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1661-E65100</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.875603, 24.019909
+Elevation: 85 m
+Time: 2016-09-07 05:32:33 popiet
+comment: Sveikiname! Jūs sėkmingai įveikėte #Walk15 trasą, 15 000 žingsnių, apie 11,5 km! Vardan geros sveikatos ir puikios savijautos raginame kasdien pasivaikščioti bent 15 minučių. Pasidalinkite savo rezultatu socialiniuose tinkluose, žymėdami #Walk15/ Congratulations! You have just overcomed #Walk15 track, about 11.5 km! Don't stop, go for a walk at least 15 minutes per day. Share your result in social networks and tag #Walk15
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>Sveikiname! Jūs sėkmingai įveikėte #Walk15 trasą, 15 000 žingsnių, apie 11,5 km! Vardan geros sveikatos ir puikios savijautos raginame kasdien pasivaikščioti bent 15 minučių. Pasidalinkite savo rezultatu socialiniuose tinkluose, žymėdami #Walk15/ Congratulations! You have just overcomed #Walk15 track, about 11.5 km! Don't stop, go for a walk at least 15 minutes per day. Share your result in social networks and tag #Walk15</value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/6F7OSTmbKBlItg-KR8JDZMiJzYwnZdpTDmVKej02C6oBLxsJmk6WTuC0n5Wp7E5lDHvelhnOrNmxSbdLJyD4_71eahxMpC6NcTHOxEJeqi0zgcu6ju6Rg-lVzqNT-MY_nQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.019909,54.875603,85.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eikite palei pakrantę!/Go along the coast!</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.895027, 24.028404<br>Elevation: 66 m<br>Time: 2016-09-07 05:01:19 popiet<br>comment: <br>visited: 1<br>activity:<br>comment: <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.895027, 24.028404
+Elevation: 66 m
+Time: 2016-09-07 05:01:19 popiet
+comment: 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.028404,54.895027,66.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pereikite per rąstą/ Go through the log</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.89538, 24.030043<br>Elevation: 67 m<br>Time: 2016-09-07 04:59:14 popiet<br>comment: <br>visited: 1<br>activity:<br>comment: <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.89538, 24.030043
+Elevation: 67 m
+Time: 2016-09-07 04:59:14 popiet
+comment: 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.030043,54.895378,67.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>„Sip Sap" 10 000 žingsnių zona/ „Sip Sap" 10 000 steps zone</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.899654, 24.050514<br>Elevation: 87 m<br>Time: 2016-09-07 04:42:54 popiet<br>comment: Jūs ką tik įveikėte 10 000 žingsnių, apie 7 km! Nesustokite!/ You have just reached 10 000 steps, about 7 km! Don't stop!<br>visited: 1<br>activity:<br>comment: Jūs ką tik įveikėte 10 000 žingsnių, apie 7 km! Nesustokite!/ You have just reached 10 000 steps, about 7 km! Don't stop!<br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1661-E65100</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.899654, 24.050514
+Elevation: 87 m
+Time: 2016-09-07 04:42:54 popiet
+comment: Jūs ką tik įveikėte 10 000 žingsnių, apie 7 km! Nesustokite!/ You have just reached 10 000 steps, about 7 km! Don't stop!
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>Jūs ką tik įveikėte 10 000 žingsnių, apie 7 km! Nesustokite!/ You have just reached 10 000 steps, about 7 km! Don't stop!</value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.050514,54.899654,87.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Būkite atidūs - čia važiuoja automobiliai!/ Be careful - cars!</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.902058, 24.03794<br>Elevation: 84 m<br>Time: 2016-09-07 04:22:50 popiet<br>comment: <br>visited: 1<br>activity:<br>comment: <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.902058, 24.03794
+Elevation: 84 m
+Time: 2016-09-07 04:22:50 popiet
+comment: 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.037939,54.902058,84.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Būkite atsargūs!/ Be careful!</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.89507, 24.02789<br>Elevation: 72 m<br>Time: 2016-09-07 04:12:24 popiet<br>comment: <br>visited: 1<br>activity:<br>comment: <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.89507, 24.02789
+Elevation: 72 m
+Time: 2016-09-07 04:12:24 popiet
+comment: 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.027889,54.895069,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Atsargiai - statu!/ Be carefull - steep!</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.89538, 24.027294<br>Elevation: 77 m<br>Time: 2016-09-07 04:11:40 popiet<br>comment: <br>visited: 1<br>activity:<br>comment: <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.89538, 24.027294
+Elevation: 77 m
+Time: 2016-09-07 04:11:40 popiet
+comment: 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.027294,54.895378,77.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepamirškite šypsotis :)/ Don't forget to smile :)</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.893368, 24.021448<br>Elevation: 81 m<br>Time: 2016-09-07 04:06:01 popiet<br>comment: Net jei ir šiek tiek sunku :)/ Even it is a little bit difficult :)<br>visited: 1<br>activity:<br>comment: Net jei ir šiek tiek sunku :)/ Even it is a little bit difficult :)<br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.893368, 24.021448
+Elevation: 81 m
+Time: 2016-09-07 04:06:01 popiet
+comment: Net jei ir šiek tiek sunku :)/ Even it is a little bit difficult :)
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>Net jei ir šiek tiek sunku :)/ Even it is a little bit difficult :)</value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.021448,54.893368,81.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Būkite atsargūs - čia važiuoja automobiliai!/ Be careful - cars!</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.887516, 24.022383<br>Elevation: 70 m<br>Time: 2016-09-07 03:57:43 popiet<br>comment: <br>visited: 1<br>activity:<br>comment: <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-FF5252</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.887516, 24.022383
+Elevation: 70 m
+Time: 2016-09-07 03:57:43 popiet
+comment: 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.022383,54.887516,70.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tualetai/ Toilets</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.884792, 24.026533<br>Elevation: 66 m<br>Time: 2016-09-07 03:47:41 popiet<br>comment: Čia galite pasinaudoti TOI TOI tualetais./ There you can use TOI TOI toilets. <br>visited: 1<br>activity:<br>comment: Čia galite pasinaudoti TOI TOI tualetais./ There you can use TOI TOI toilets. <br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.884792, 24.026533
+Elevation: 66 m
+Time: 2016-09-07 03:47:41 popiet
+comment: Čia galite pasinaudoti TOI TOI tualetais./ There you can use TOI TOI toilets. 
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>Čia galite pasinaudoti TOI TOI tualetais./ There you can use TOI TOI toilets. </value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.026533,54.884792,66.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>„Melt Water Kids" zona/ „Melt Water Kids" zone</name>
+			<description><![CDATA[Aprašas: Aprašas: Coords: 54.88528, 24.026567<br>Elevation: 65 m<br>Time: 2016-09-07 03:46:30 popiet<br>comment: „Melt Water" Kids zonoje, kol įveiksite visą trasą, galite palikti savo vaikučius talismanų Snaigės ir Pūgio priežiūrai bei profesionaliems „Sporto biržos" bei „Startuko" treneriais. Čia vaikučiai taip pat galės pasimokyti žaisti lauko tenisą!/ There you can leave your children.<br>visited: 1<br>activity:<br>comment: „Melt Water" Kids zonoje, kol įveiksite visą trasą, galite palikti savo vaikučius talismanų Snaigės ir Pūgio priežiūrai bei profesionaliems „Sporto biržos" bei „Startuko" treneriais. Čia vaikučiai taip pat galės pasimokyti žaisti lauko tenisą!/ There you can leave your children.<br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1742-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.88528, 24.026567
+Elevation: 65 m
+Time: 2016-09-07 03:46:30 popiet
+comment: „Melt Water" Kids zonoje, kol įveiksite visą trasą, galite palikti savo vaikučius talismanų Snaigės ir Pūgio priežiūrai bei profesionaliems „Sporto biržos" bei „Startuko" treneriais. Čia vaikučiai taip pat galės pasimokyti žaisti lauko tenisą!/ There you can leave your children.
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>„Melt Water" Kids zonoje, kol įveiksite visą trasą, galite palikti savo vaikučius talismanų Snaigės ir Pūgio priežiūrai bei profesionaliems „Sporto biržos" bei „Startuko" treneriais. Čia vaikučiai taip pat galės pasimokyti žaisti lauko tenisą!/ There you can leave your children.</value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.026567,54.885281,65.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>#Walk15 trasos startas/#Walk15 track start</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/V-VSCr-VAuVaDTR_OJjU-HacEzJRCouDBrT08vCXc--LpxKSB7BonsGZoZWef-w7G3YYP9rjwmWTzYcmoj34Znma9cgyCcDxeDbeERIa3BJvz0M3XmXyV6gbI6f3GLzi" height="200" width="auto" /><br><br>Aprašas: Aprašas: Coords: 54.875484, 24.020283<br>Elevation: 90 m<br>Time: 2016-09-07 03:18:40 popiet<br>comment: Sveiki! Be galo džiaugiamės, kad Kaune eisite #Walk15 trasa! Tikimės, kad atrasite naujų Kauno vietų. Apsidairykite, stabtelėkite ir pajuskite šio krašto grožį./ Hello! We ar happy that you are going to join our #Walk15 track! We hope you will find new places!<br>visited: 1<br>activity:<br>comment: Sveiki! Be galo džiaugiamės, kad Kaune eisite #Walk15 trasa! Tikimės, kad atrasite naujų Kauno vietų. Apsidairykite, stabtelėkite ir pajuskite šio krašto grožį./ Hello! We ar happy that you are going to join our #Walk15 track! We hope you will find new places!<br>visited: 1<br>activity: ]]></description>
+			<styleUrl>#icon-1661-E65100</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Coords: 54.875484, 24.020283
+Elevation: 90 m
+Time: 2016-09-07 03:18:40 popiet
+comment: Sveiki! Be galo džiaugiamės, kad Kaune eisite #Walk15 trasa! Tikimės, kad atrasite naujų Kauno vietų. Apsidairykite, stabtelėkite ir pajuskite šio krašto grožį./ Hello! We ar happy that you are going to join our #Walk15 track! We hope you will find new places!
+visited: 1
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>Sveiki! Be galo džiaugiamės, kad Kaune eisite #Walk15 trasa! Tikimės, kad atrasite naujų Kauno vietų. Apsidairykite, stabtelėkite ir pajuskite šio krašto grožį./ Hello! We ar happy that you are going to join our #Walk15 track! We hope you will find new places!</value>
+				</Data>
+				<Data name='visited'>
+					<value>1</value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/V-VSCr-VAuVaDTR_OJjU-HacEzJRCouDBrT08vCXc--LpxKSB7BonsGZoZWef-w7G3YYP9rjwmWTzYcmoj34Znma9cgyCcDxeDbeERIa3BJvz0M3XmXyV6gbI6f3GLzi</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.020283,54.875484,90.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 000 žingsnių zona/ 5 000 steps zone</name>
+			<description><![CDATA[Aprašas: Aprašas: Jūs ką tik įveikėte 5 000 žingsnių, apie 3,5 km!/ You have just reached 5 000 steps, about 3,5 km!<br>comment: <br>visited: <br>activity:<br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#icon-1661-E65100</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Jūs ką tik įveikėte 5 000 žingsnių, apie 3,5 km!/ You have just reached 5 000 steps, about 3,5 km!
+comment: 
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.021318,54.891777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10000 žingsnių</name>
+			<description><![CDATA[Aprašas: Aprašas: <br>comment: <br>visited: <br>activity:<br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#line-F57C00-6</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: 
+comment: 
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>24.021379,54.891945,0.0 24.021433,54.892036,0.0 24.021301,54.892262,0.0 24.021081,54.892393,0.0 24.021019,54.892567,0.0 24.021227,54.892948,0.0 24.021515,54.8933,0.0 24.021464,54.893502,0.0 24.021477,54.893574,0.0 24.022095,54.893958,0.0 24.02243,54.894108,0.0 24.023054,54.894314,0.0 24.023808,54.894442,0.0 24.024242,54.894485,0.0 24.025053,54.894695,0.0 24.025835,54.894913,0.0 24.026068,54.894913,0.0 24.026287,54.894922,0.0 24.026459,54.895077,0.0 24.026563,54.895236,0.0 24.026711,54.895397,0.0 24.026738,54.895497,0.0 24.027065,54.895432,0.0 24.027315,54.895344,0.0 24.027838,54.895081,0.0 24.028164,54.894969,0.0 24.028244,54.894977,0.0 24.0284,54.89502,0.0 24.028365,54.895075,0.0 24.028554,54.895135,0.0 24.028663,54.895216,0.0 24.028704,54.895298,0.0 24.028812,54.89543,0.0 24.02893,54.895472,0.0 24.028963,54.895527,0.0 24.028949,54.895574,0.0 24.028905,54.895663,0.0 24.028807,54.895763,0.0 24.028773,54.895803,0.0 24.028783,54.895906,0.0 24.028801,54.89601,0.0 24.028719,54.896216,0.0 24.028692,54.896418,0.0 24.028819,54.896656,0.0 24.029052,54.896838,0.0 24.029386,54.897058,0.0 24.029646,54.897299,0.0 24.030102,54.897606,0.0 24.030452,54.897818,0.0 24.030767,54.898045,0.0 24.031026,54.898227,0.0 24.03134,54.898438,0.0 24.031773,54.898726,0.0 24.032679,54.899403,0.0 24.033564,54.900016,0.0 24.034867,54.900735,0.0 24.036997,54.901848,0.0 24.037807,54.902184,0.0 24.037939,54.902058,0.0 24.038542,54.901756,0.0 24.039218,54.901438,0.0 24.039619,54.901031,0.0 24.041872,54.89946,0.0 24.042181,54.899658,0.0 24.042534,54.899742,0.0 24.042753,54.899956,0.0 24.043091,54.900188,0.0 24.043344,54.90036,0.0 24.043434,54.900433,0.0 24.043657,54.900448,0.0 24.043882,54.900528,0.0 24.044126,54.900639,0.0 24.044164,54.900837,0.0 24.044197,54.90115,0.0 24.044033,54.901394,0.0 24.044033,54.901524,0.0 24.043888,54.901768,0.0 24.043972,54.901894,0.0 24.044249,54.901955,0.0 24.044437,54.902027,0.0 24.044592,54.902084,0.0 24.044827,54.902092,0.0 24.044899,54.902114,0.0 24.044979,54.902218,0.0 24.045164,54.902285,0.0 24.045298,54.902332,0.0 24.045591,54.902412,0.0 24.045915,54.902459,0.0 24.046204,54.902573,0.0 24.046547,54.902687,0.0 24.046848,54.902767,0.0 24.047138,54.902841,0.0 24.047428,54.902883,0.0 24.047607,54.903,0.0 24.047884,54.903114,0.0 24.048141,54.903255,0.0 24.048449,54.903389,0.0 24.048638,54.903414,0.0 24.048756,54.903421,0.0 24.048885,54.903282,0.0 24.049054,54.903067,0.0 24.049236,54.902958,0.0 24.049373,54.902908,0.0 24.049498,54.902786,0.0 24.049854,54.902405,0.0 24.049986,54.902321,0.0 24.05015,54.902184,0.0 24.050316,54.901981,0.0 24.050446,54.901817,0.0 24.050545,54.901711,0.0 24.050645,54.901583,0.0 24.050703,54.901493,0.0 24.050808,54.901415,0.0 24.05092,54.901354,0.0 24.051188,54.901314,0.0 24.051369,54.901268,0.0 24.051655,54.900992,0.0 24.051704,54.900975,0.0 24.051748,54.900909,0.0 24.051852,54.900874,0.0 24.051893,54.900788,0.0 24.051922,54.900681,0.0 24.05154,54.90047,0.0 24.051501,54.900375,0.0 24.051373,54.900345,0.0 24.05127,54.900288,0.0 24.05116,54.900217,0.0 24.051155,54.900163,0.0 24.051122,54.900146,0.0 24.051103,54.900082,0.0 24.051113,54.900032,0.0 24.0511,54.899977,0.0 24.051022,54.899902,0.0 24.050995,54.899837,0.0 24.050948,54.899839,0.0 24.050898,54.899816,0.0 24.050827,54.899731,0.0 24.050514,54.899654,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pasiimkite vaikus!/ Take children!</name>
+			<description><![CDATA[Aprašas: Aprašas: <br>comment: <br>visited: <br>activity:<br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: 
+comment: 
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.022594,54.886846,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pažaislio vienuolynas ir bažnyčia/ Pažaislis Monastery and Church</name>
+			<description><![CDATA[Aprašas: Aprašas: Pažaislio vienuolynas – pastatų ansamblis Pažaislyje. Kraštovaizdžio architektūros draustinis. Ansamblis laikomas vienu geriausių brandžiojo baroko pavyzdžių Šiaurės ir Rytų Europoje. Tai vienas iš dviejų Lietuvoje išlikusių vienuolynų ir bažnyčių ansamblių (kitas Tytuvėnuose)./Pažaislis monastery and church form the largest monastery complex in Lithuania, and the most magnificent example of Italian Baroque architecture in the country.  http://ejimovarzybos.lt/  s  <a href='http://www.google.com'>Google Office</a><br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: Pažaislio vienuolynas – pastatų ansamblis Pažaislyje. Kraštovaizdžio architektūros draustinis. Ansamblis laikomas vienu geriausių brandžiojo baroko pavyzdžių Šiaurės ir Rytų Europoje. Tai vienas iš dviejų Lietuvoje išlikusių vienuolynų ir bažnyčių ansamblių (kitas Tytuvėnuose)./Pažaislis monastery and church form the largest monastery complex in Lithuania, and the most magnificent example of Italian Baroque architecture in the country.  http://ejimovarzybos.lt/  s  &lt;a href='http://www.google.com'&gt;Google Office&lt;/a&gt;</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.020634,54.876328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vieškūnų piliakalnis/ Vieskunai mound</name>
+			<description><![CDATA[Aprašas: Aprašas: <br>comment: (Šuneliškių kalnas) Tai vienas geriausiai išlikusių Lietuvos piliakalnių, nes ilgą laiką buvo nežinomas ir atrastas tik 1992 metais. Žmonės pasakoja, kad kadaise ant piliakalnio nusižudė vietos dvarininko duktė. Nuo tada čia ėmę vaidentis. Eini naktį - tai čiulba, tai staugia, bet dažniausia tai vaidenasi visokie šunys. Už piliakalnio prasideda Lakštingalų slėnis.<br><br><br>visited: <br>activity:<br>comment: (Šuneliškių kalnas) Tai vienas geriausiai išlikusių Lietuvos piliakalnių, nes ilgą laiką buvo nežinomas ir atrastas tik 1992 metais. Žmonės pasakoja, kad kadaise ant piliakalnio nusižudė vietos dvarininko duktė. Nuo tada čia ėmę vaidentis. Eini naktį - tai čiulba, tai staugia, bet dažniausia tai vaidenasi visokie šunys. Už piliakalnio prasideda Lakštingalų slėnis.<br>visited: <br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: 
+comment: (Šuneliškių kalnas) Tai vienas geriausiai išlikusių Lietuvos piliakalnių, nes ilgą laiką buvo nežinomas ir atrastas tik 1992 metais. Žmonės pasakoja, kad kadaise ant piliakalnio nusižudė vietos dvarininko duktė. Nuo tada čia ėmę vaidentis. Eini naktį - tai čiulba, tai staugia, bet dažniausia tai vaidenasi visokie šunys. Už piliakalnio prasideda Lakštingalų slėnis.
+
+
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value>(Šuneliškių kalnas) Tai vienas geriausiai išlikusių Lietuvos piliakalnių, nes ilgą laiką buvo nežinomas ir atrastas tik 1992 metais. Žmonės pasakoja, kad kadaise ant piliakalnio nusižudė vietos dvarininko duktė. Nuo tada čia ėmę vaidentis. Eini naktį - tai čiulba, tai staugia, bet dažniausia tai vaidenasi visokie šunys. Už piliakalnio prasideda Lakštingalų slėnis.</value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.050041,54.899297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Linija 24</name>
+			<description><![CDATA[Aprašas: Aprašas: <br>comment: <br>visited: <br>activity:<br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#line-000000-1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: 
+comment: 
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>24.022644,54.885985,0.0 24.022124,54.885962,0.0 24.021808,54.885676,0.0 24.021902,54.885059,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>5000 trasa</name>
+			<description><![CDATA[Aprašas: Aprašas: <br>comment: <br>visited: <br>activity:<br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#line-0288D1-5</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: 
+comment: 
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>24.019734,54.875557,0.0 24.020137,54.87552,0.0 24.020791,54.875181,0.0 24.022524,54.875147,0.0 24.024664,54.875205,0.0 24.024745,54.87632,0.0 24.024584,54.876906,0.0 24.024444,54.877051,0.0 24.024382,54.877167,0.0 24.024337,54.877307,0.0 24.024302,54.877849,0.0 24.024002,54.878029,0.0 24.023967,54.878053,0.0 24.023803,54.87831,0.0 24.023811,54.878585,0.0 24.0238,54.878727,0.0 24.023758,54.879165,0.0 24.023744,54.879281,0.0 24.023715,54.879383,0.0 24.023589,54.879838,0.0 24.023425,54.880414,0.0 24.023363,54.880637,0.0 24.023296,54.880849,0.0 24.02321,54.881097,0.0 24.023047,54.881477,0.0 24.022996,54.881683,0.0 24.022996,54.881733,0.0 24.023071,54.881893,0.0 24.023234,54.882213,0.0 24.023519,54.882461,0.0 24.02375,54.882666,0.0 24.023787,54.882699,0.0 24.023884,54.88289,0.0 24.023862,54.883118,0.0 24.023747,54.88331,0.0 24.023656,54.883405,0.0 24.023514,54.883523,0.0 24.023267,54.883692,0.0 24.022942,54.883902,0.0 24.022682,54.884075,0.0 24.022553,54.88414,0.0 24.022041,54.884385,0.0 24.021899,54.884451,0.0 24.021707,54.884527,0.0 24.021564,54.884589,0.0 24.021671,54.884691,0.0 24.021786,54.884819,0.0 24.021864,54.884925,0.0 24.021915,54.885039,0.0 24.021902,54.885175,0.0 24.021893,54.885308,0.0 24.021876,54.885514,0.0 24.021863,54.885602,0.0 24.021818,54.885663,0.0 24.021893,54.885728,0.0 24.022146,54.885948,0.0 24.022747,54.885975,0.0 24.022725,54.886123,0.0 24.022663,54.886517,0.0 24.022654,54.886769,0.0 24.023154,54.886778,0.0 24.023505,54.886753,0.0 24.023932,54.886753,0.0 24.024806,54.886761,0.0 24.025394,54.886769,0.0 24.025978,54.886757,0.0 24.026265,54.886706,0.0 24.026311,54.886375,0.0 24.026357,54.88609,0.0 24.026468,54.885047,0.0 24.026523,54.884924,0.0 24.026533,54.884792,0.0 24.026611,54.884762,0.0 24.026799,54.884806,0.0 24.026955,54.884823,0.0 24.027086,54.884917,0.0 24.027459,54.885285,0.0 24.027581,54.88543,0.0 24.027693,54.885597,0.0 24.027937,54.885693,0.0 24.027815,54.885971,0.0 24.027662,54.886177,0.0 24.027636,54.886295,0.0 24.027196,54.88647,0.0 24.026905,54.886554,0.0 24.026568,54.886603,0.0 24.026335,54.886715,0.0 24.0263,54.886758,0.0 24.026235,54.886769,0.0 24.02589,54.886808,0.0 24.025337,54.886818,0.0 24.024659,54.886812,0.0 24.023624,54.886801,0.0 24.023226,54.886826,0.0 24.023009,54.886827,0.0 24.022659,54.886808,0.0 24.02258,54.886971,0.0 24.0225,54.887141,0.0 24.022422,54.887281,0.0 24.022406,54.887313,0.0 24.022347,54.887443,0.0 24.022087,54.88777,0.0 24.021867,54.888006,0.0 24.021786,54.888273,0.0 24.021869,54.888668,0.0 24.021912,54.888878,0.0 24.021826,54.889137,0.0 24.021588,54.889702,0.0 24.021368,54.890268,0.0 24.021306,54.890465,0.0 24.021285,54.89067,0.0 24.02126,54.890791,0.0 24.021255,54.890825,0.0 24.02125,54.890862,0.0 24.02147,54.890877,0.0 24.021742,54.890884,0.0 24.021801,54.891239,0.0 24.021881,54.891319,0.0 24.02183,54.891415,0.0 24.021519,54.891483,0.0 24.021399,54.891636,0.0 24.021325,54.891801,0.0 24.021379,54.891945,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>15000 trasa</name>
+			<description><![CDATA[Aprašas: Aprašas: <br>comment: <br>visited: <br>activity:<br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#line-7CB342-6</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Aprašas: 
+comment: 
+visited: 
+activity:</value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>24.050514,54.899654,0.0 24.050349,54.899479,0.0 24.050175,54.899395,0.0 24.049986,54.899246,0.0 24.04974,54.899146,0.0 24.049568,54.899172,0.0 24.049355,54.899177,0.0 24.049161,54.899229,0.0 24.049056,54.899256,0.0 24.048686,54.89946,0.0 24.048524,54.899503,0.0 24.048134,54.899529,0.0 24.047618,54.899524,0.0 24.046948,54.899368,0.0 24.046503,54.899229,0.0 24.045258,54.898825,0.0 24.044515,54.898609,0.0 24.044318,54.8986,0.0 24.043141,54.898542,0.0 24.042662,54.89862,0.0 24.042639,54.898623,0.0 24.042443,54.898274,0.0 24.042371,54.898228,0.0 24.042123,54.89817,0.0 24.041546,54.89804,0.0 24.041149,54.897915,0.0 24.040614,54.897813,0.0 24.040275,54.897775,0.0 24.039501,54.897567,0.0 24.038397,54.897278,0.0 24.037393,54.897125,0.0 24.036263,54.896943,0.0 24.034811,54.896644,0.0 24.034532,54.896612,0.0 24.033848,54.896382,0.0 24.034014,54.896263,0.0 24.034025,54.896125,0.0 24.033401,54.895901,0.0 24.033297,54.895828,0.0 24.032475,54.89587,0.0 24.032234,54.895905,0.0 24.031975,54.895882,0.0 24.03141,54.895659,0.0 24.030809,54.895495,0.0 24.030678,54.895485,0.0 24.030409,54.895496,0.0 24.030291,54.89541,0.0 24.029962,54.895381,0.0 24.029253,54.895259,0.0 24.028372,54.895033,0.0 24.028328,54.895023,0.0 24.028194,54.895011,0.0 24.027346,54.895376,0.0 24.027141,54.895465,0.0 24.027077,54.895486,0.0 24.027039,54.895492,0.0 24.026724,54.895527,0.0 24.026668,54.89551,0.0 24.026563,54.895346,0.0 24.026268,54.894988,0.0 24.025834,54.894963,0.0 24.024568,54.894625,0.0 24.024222,54.894544,0.0 24.023833,54.89449,0.0 24.023354,54.894407,0.0 24.022997,54.894346,0.0 24.022611,54.894232,0.0 24.02201,54.893995,0.0 24.021392,54.893584,0.0 24.021364,54.89349,0.0 24.021408,54.893347,0.0 24.021121,54.892979,0.0 24.021053,54.892878,0.0 24.020428,54.891466,0.0 24.020306,54.891258,0.0 24.019966,54.890912,0.0 24.020539,54.890855,0.0 24.021022,54.890857,0.0 24.02115,54.890642,0.0 24.021169,54.890544,0.0 24.021201,54.890388,0.0 24.021223,54.890181,0.0 24.021408,54.889782,0.0 24.021792,54.888858,0.0 24.021609,54.8884,0.0 24.021679,54.888008,0.0 24.022124,54.887539,0.0 24.022497,54.886872,0.0 24.022588,54.886457,0.0 24.022642,54.886019,0.0 24.022119,54.885993,0.0 24.021724,54.885666,0.0 24.021792,54.885587,0.0 24.02181,54.885274,0.0 24.021829,54.88503,0.0 24.021722,54.884831,0.0 24.021467,54.884595,0.0 24.02203,54.88434,0.0 24.022467,54.88413,0.0 24.022623,54.884053,0.0 24.0232,54.883671,0.0 24.023589,54.88339,0.0 24.023704,54.883256,0.0 24.023808,54.882995,0.0 24.023803,54.882878,0.0 24.023712,54.882737,0.0 24.02354,54.882571,0.0 24.023315,54.88237,0.0 24.023168,54.882239,0.0 24.023068,54.882044,0.0 24.022969,54.881852,0.0 24.022913,54.88174,0.0 24.022913,54.88165,0.0 24.02294,54.881523,0.0 24.02299,54.881361,0.0 24.023221,54.880787,0.0 24.023253,54.880687,0.0 24.023302,54.880545,0.0 24.023339,54.880352,0.0 24.023562,54.8796,0.0 24.023624,54.879401,0.0 24.02365,54.879309,0.0 24.023688,54.879162,0.0 24.023712,54.878877,0.0 24.02372,54.878289,0.0 24.023894,54.878016,0.0 24.024039,54.877926,0.0 24.024203,54.87783,0.0 24.02423,54.877747,0.0 24.024248,54.877482,0.0 24.02427,54.877213,0.0 24.024332,54.877051,0.0 24.024468,54.876884,0.0 24.024546,54.876638,0.0 24.024649,54.876286,0.0 24.024605,54.875962,0.0 24.024554,54.875269,0.0 24.024479,54.875256,0.0 24.023087,54.875224,0.0 24.022167,54.875222,0.0 24.020866,54.875235,0.0 24.020197,54.875574,0.0 24.019761,54.875614,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>„Kauno Žalgirio jachtklubas"</name>
+			<description><![CDATA[Aprašas: Čia galite nusipirkti užkąsti ar atsigerti./ There you can buy some snacks or drinks. <br>comment: <br>visited: <br>activity: ]]></description>
+			<styleUrl>#icon-1899-0288D1</styleUrl>
+			<ExtendedData>
+				<Data name='Aprašas'>
+					<value>Čia galite nusipirkti užkąsti ar atsigerti./ There you can buy some snacks or drinks. </value>
+				</Data>
+				<Data name='comment'>
+					<value></value>
+				</Data>
+				<Data name='visited'>
+					<value></value>
+				</Data>
+				<Data name='activity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.0220141,54.885698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1661-E65100-normal'>
+			<IconStyle>
+				<color>ff0051E6</color>
+				<scale>1.0</scale>
+				<Icon>
+
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1661-E65100-highlight'>
+			<IconStyle>
+				<color>ff0051E6</color>
+				<scale>1.0</scale>
+				<Icon>
+
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1661-E65100'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1661-E65100-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1661-E65100-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1742-FFD600-normal'>
+			<IconStyle>
+				<color>ff00D6FF</color>
+				<scale>1.0</scale>
+				<Icon>
+				
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1742-FFD600-highlight'>
+			<IconStyle>
+				<color>ff00D6FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1742-FFD600'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1742-FFD600-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1742-FFD600-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+			
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+			
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-FF5252-normal'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+			
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-FF5252-highlight'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+		
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-FF5252'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-FF5252-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-000000-1-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-000000-1-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-000000-1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-0288D1-5-normal'>
+			<LineStyle>
+				<color>ffD18802</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-0288D1-5-highlight'>
+			<LineStyle>
+				<color>ffD18802</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-0288D1-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-0288D1-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-0288D1-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-7CB342-6-normal'>
+			<LineStyle>
+				<color>ff42B37C</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-7CB342-6-highlight'>
+			<LineStyle>
+				<color>ff42B37C</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-7CB342-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-7CB342-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-7CB342-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-F57C00-6-normal'>
+			<LineStyle>
+				<color>ff007CF5</color>
+				<width>6</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-F57C00-6-highlight'>
+			<LineStyle>
+				<color>ff007CF5</color>
+				<width>9.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-F57C00-6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-F57C00-6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-F57C00-6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
